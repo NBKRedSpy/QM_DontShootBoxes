@@ -20,4 +20,4 @@ Thanks!
 [Close icons created by Pixel perfect - Flaticon](https://www.flaticon.com/free-icons/close)
 
 # Source Code
-Source code is available on GitHub at https://github.com/NBKRedSpy/DontShootBoxes
+Source code is available on GitHub at https://github.com/NBKRedSpy/QM_DontShootBoxes

@@ -22,4 +22,4 @@ Thanks!
 
 [h1]Source Code[/h1]
 
-Source code is available on GitHub at https://github.com/NBKRedSpy/DontShootBoxes
+Source code is available on GitHub at https://github.com/NBKRedSpy/QM_DontShootBoxes
