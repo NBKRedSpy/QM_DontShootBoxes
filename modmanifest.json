@@ -1,0 +1,9 @@
+{
+  "UniqueModName": "NBKRedSpy_DontShootBoxes",
+  "Assemblies": [
+    "DontShootBoxes.dll"
+  ],
+  "Dependencies": [],
+  "SteamTags": [
+  ]
+}
